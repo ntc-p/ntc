@@ -6,7 +6,7 @@
   "description": "LANÇAMENTO 7 TEMPORADA",
   "video": "359052",
   "image": "https://cdn.anicdn.net/media/categories/video/9115c0b3bac60336151b483fc4594afb.jpg",
-  "status": "on",
+  "status": true,
   "notice": "NetCine Plus - build-250\n\n*Melhorias e correções.",
   "version": 250,
   "minimumVersion": 100,
