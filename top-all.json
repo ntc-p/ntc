@@ -1,56 +1,56 @@
 [
   {
     "name": "Meu Pai",
-    "url": "https://vizertv.in/filme/online/meu-pai",
-    "img": "https://vizertv.in/content/movies/posterPt/342/27863.webp",
+    "url": "/filme/online/meu-pai",
+    "img": "/content/movies/posterPt/342/27863.webp",
     "rating": "8.3"
   },
   {
     "name": "Amor e Morte",
-    "url": "https://vizertv.in/serie/online/amor-e-morte",
-    "img": "https://vizertv.in/content/series/posterPt/342/22314.webp",
+    "url": "/serie/online/amor-e-morte",
+    "img": "/content/series/posterPt/342/22314.webp",
     "rating": "7.8"
   },
   {
     "name": "Terra Selvagem",
-    "url": "https://vizertv.in/filme/online/terra-selvagem",
-    "img": "https://vizertv.in/content/movies/posterPt/342/13449.webp",
+    "url": "/filme/online/terra-selvagem",
+    "img": "/content/movies/posterPt/342/13449.webp",
     "rating": "7.7"
   },
   {
     "name": "Citadel",
-    "url": "https://vizertv.in/serie/online/citadel",
-    "img": "https://vizertv.in/content/series/posterPt/342/22315.webp",
+    "url": "/serie/online/citadel",
+    "img": "/content/series/posterPt/342/22315.webp",
     "rating": "6.9"
   },
   {
     "name": "A Baleia",
-    "url": "https://vizertv.in/filme/online/a-baleia",
-    "img": "https://vizertv.in/content/movies/posterPt/342/39123.webp",
+    "url": "/filme/online/a-baleia",
+    "img": "/content/movies/posterPt/342/39123.webp",
     "rating": "8.0"
   },
   {
     "name": "Uma Pequena Luz",
-    "url": "https://vizertv.in/serie/online/uma-pequena-luz",
-    "img": "https://vizertv.in/content/series/posterPt/342/22319.webp",
+    "url": "/serie/online/uma-pequena-luz",
+    "img": "/content/series/posterPt/342/22319.webp",
     "rating": "7.3"
   },
   {
     "name": "Não! Não Olhe",
-    "url": "https://vizertv.in/filme/online/nao-nao-olhe",
-    "img": "https://vizertv.in/content/movies/posterPt/342/38547.webp",
+    "url": "/filme/online/nao-nao-olhe",
+    "img": "/content/movies/posterPt/342/38547.webp",
     "rating": "7.3"
   },
   {
     "name": "Avatar: O Caminho da Água",
-    "url": "https://vizertv.in/filme/online/avatar-o-caminho-da-gua",
-    "img": "https://vizertv.in/content/movies/posterPt/342/38955.webp",
+    "url": "/filme/online/avatar-o-caminho-da-gua",
+    "img": "/content/movies/posterPt/342/38955.webp",
     "rating": "8.1"
   },
   {
     "name": "Pânico VI",
-    "url": "https://vizertv.in/filme/online/panico-vi",
-    "img": "https://vizertv.in/content/movies/posterPt/342/39192.webp",
+    "url": "/filme/online/panico-vi",
+    "img": "/content/movies/posterPt/342/39192.webp",
     "rating": "7.3"
   }
 ]
