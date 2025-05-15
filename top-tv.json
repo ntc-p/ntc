@@ -1,56 +1,56 @@
 [
   {
     "name": "Amor e Morte",
-    "url": "https://vizertv.in/serie/online/amor-e-morte",
-    "img": "https://vizertv.in/content/series/posterPt/342/22314.webp",
+    "url": "/serie/online/amor-e-morte",
+    "img": "/content/series/posterPt/342/22314.webp",
     "rating": "7.8"
   },
   {
     "name": "Citadel",
-    "url": "https://vizertv.in/serie/online/citadel",
-    "img": "https://vizertv.in/content/series/posterPt/342/22315.webp",
+    "url": "/serie/online/citadel",
+    "img": "/content/series/posterPt/342/22315.webp",
     "rating": "6.9"
   },
   {
     "name": "Uma Pequena Luz",
-    "url": "https://vizertv.in/serie/online/uma-pequena-luz",
-    "img": "https://vizertv.in/content/series/posterPt/342/22319.webp",
+    "url": "/serie/online/uma-pequena-luz",
+    "img": "/content/series/posterPt/342/22319.webp",
     "rating": "7.3"
   },
   {
     "name": "Treta",
-    "url": "https://vizertv.in/serie/online/treta",
-    "img": "https://vizertv.in/content/series/posterPt/342/22268.webp",
+    "url": "/serie/online/treta",
+    "img": "/content/series/posterPt/342/22268.webp",
     "rating": "7.6"
   },
   {
     "name": "O Silo",
-    "url": "https://vizertv.in/serie/online/o-silo",
-    "img": "https://vizertv.in/content/series/posterPt/342/22322.webp",
+    "url": "/serie/online/o-silo",
+    "img": "/content/series/posterPt/342/22322.webp",
     "rating": "8.3"
   },
   {
     "name": "Succession",
-    "url": "https://vizertv.in/serie/online/succession",
-    "img": "https://vizertv.in/content/series/posterPt/342/4376.webp",
+    "url": "/serie/online/succession",
+    "img": "/content/series/posterPt/342/4376.webp",
     "rating": "8.8"
   },
   {
     "name": "Ted Lasso",
-    "url": "https://vizertv.in/serie/online/ted-lasso",
-    "img": "https://vizertv.in/content/series/posterPt/342/18965.webp",
+    "url": "/serie/online/ted-lasso",
+    "img": "/content/series/posterPt/342/18965.webp",
     "rating": "8.9"
   },
   {
     "name": "Sweet Tooth",
-    "url": "https://vizertv.in/serie/online/sweet-tooth",
-    "img": "https://vizertv.in/content/series/posterPt/342/19365.webp",
+    "url": "/serie/online/sweet-tooth",
+    "img": "/content/series/posterPt/342/19365.webp",
     "rating": "7.9"
   },
   {
     "name": "Os Encanadores da Casa Branca",
-    "url": "https://vizertv.in/serie/online/os-encanadores-da-casa-branca",
-    "img": "https://vizertv.in/content/series/posterPt/342/22320.webp",
+    "url": "/serie/online/os-encanadores-da-casa-branca",
+    "img": "/content/series/posterPt/342/22320.webp",
     "rating": 7.0"
   }
 ]
