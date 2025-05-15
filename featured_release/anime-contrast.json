@@ -1,14 +1,14 @@
 {
   "server": "https://www.hinatasoul.com",
-  "name": "Boku no Hero Academia",
-  "link": "https://www.hinatasoul.com/animes/boku-no-hero-academia-7th-season",
-  "wallpaper": "https://novizer.com/content/series/background/1280/9288.webp",
-  "thumbnail": "https://cdn.anicdn.net/media/categories/video/9115c0b3bac60336151b483fc4594afb.jpg",
-  "description": "LANÇAMENTO 7 TEMPORADA",
-  "video": "359052",
+  "name": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+  "link": "https://www.hinatasoul.com/animes/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
+  "wallpaper": "https://cdn.myanimelist.net/images/anime/1883/146143l.jpg",
+  "thumbnail": "https://cdn.anicdn.net/media/categories/video/ab4f808a86d4b46dfd7daa379448f474.webp",
+  "description": "NOVO LANÇAMENTO",
+  "video": "531598",
   "status": true,
   "notice": "NetCine Plus - build-250\n\n*Melhorias e correções.",
   "version": 250,
-  "minimumVersion": 100,
+  "minimumVersion": 250,
   "linkVersion": "https://www.mediafire.com/file/6zrenu63u1vgbkz/NetCine_Plus_250.apk/file"
 }
