@@ -1,7 +1,7 @@
 [
   {
     "serverStart": "https://sportzonline.si/channels/bra/br",
-    "serverEnd": ".php"
+    "serverEnd": ".php",
     "notice": "NetCine Plus - build-252\n\n*Melhorias e correções.",
     "version": 252,
     "minimumVersion": 252,
