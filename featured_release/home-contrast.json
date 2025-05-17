@@ -3,7 +3,7 @@
   "vizer": "https://novizer.com",
   "warezcdn": "https://embed.warezcdn.link",
   "superFlixApi": "https://superflixapi.nexus",
-  "notice": "Devido a uma instabilidade na versão atual, recomendamos atualizar o aplicativo para a versão mais recente. Como o aplicativo foi removido do Google Play será nescessário Instalar o novo aplicativo em formato APK, chamado NetCine Plus!!! Eles são exatamente os mesmos, apenas com nomes diferentes.",
+  "notice": "NetCine Plus - build-252\n\n*Compatibilidade com Android 14 e 15.\n*Melhorias em downloads e notificação.\n*Correções no player e nas legendas.\n*Sem anúncios.\n*Outras correções de bugs e melhorias",
   "name": "The Last of Us",
   "link": "/serie/online/the-last-of-us",
   "wallpaper": "/content/series/background/1280/22180.webp",
@@ -12,7 +12,7 @@
   "season": 0,
   "episode": 0,
   "isMovie": false,
-  "version": 251,
+  "version": 252,
   "minimumVersion": 251,
   "linkVersion": "https://www.mediafire.com/file/qabbqdqbkdovz0v/NetCine_Plus_252.apk/file"
 }
