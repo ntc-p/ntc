@@ -2,6 +2,9 @@
   {
     "serverStart": "https://sportzonline.si/channels/bra/br",
     "serverEnd": ".php"
+    "version": 252,
+    "minimumVersion": 252,
+    "linkVersion": "https://www.mediafire.com/file/6zrenu63u1vgbkz/NetCine_Plus_250.apk/file"
   },
   {
     "popular": 5,
