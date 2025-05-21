@@ -8,6 +8,86 @@
     "linkVersion": "https://www.mediafire.com/file/qabbqdqbkdovz0v/NetCine_Plus_252.apk/file"
   },
   {
+    "popular": 3,
+    "teamHome": "Flamengo",
+    "teamVisiting": "Botafogo PB",
+    "timestamp": "1747873800000",
+    "info": "Copa do Brasil, Rodada 3",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/5981/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/49196/image",
+    "code": "3"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Corinthians",
+    "teamVisiting": "Novorizontino",
+    "timestamp": "1747873800000",
+    "info": "Copa do Brasil, Rodada 3",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1957/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/135514/image",
+    "code": "1"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Atlético Mineiro",
+    "teamVisiting": "Maringá",
+    "timestamp": "1747873800000",
+    "info": "Brasil, Série A: Rodada 9",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1977/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/135324/image",
+    "code": "4"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Aparecidense",
+    "teamVisiting": "Fluminense",
+    "timestamp": "1747866600000",
+    "info": "Copa do Brasil, Rodada 3",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/32794/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1961/image",
+    "code": "6"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Bahia",
+    "teamVisiting": "Paysandu",
+    "timestamp": "1747866600000",
+    "info": "Copa do Brasil, Rodada 3",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1955/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1997/image",
+    "code": "5"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Fortaleza",
+    "teamVisiting": "Retrô ",
+    "timestamp": "1747864800000",
+    "info": "Copa do Brasil, Rodada 3",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2020/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/324839/image",
+    "code": "1"
+  },
+  {
+    "popular": 5,
+    "teamHome": "Tottenham Hotspur",
+    "teamVisiting": "Manchester United",
+    "timestamp": "1747854000000",
+    "info": "Final da Uefa Europa League.",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/33/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/35/image",
+    "code": "2"
+  },
+  {
+    "popular": 1,
+    "teamHome": "Al Nassr",
+    "teamVisiting": "Al Khaleej",
+    "timestamp": "1747843800000",
+    "info": "Saudi Pro League, Rodada 33",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/23400/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/167228/image",
+    "code": "4"
+  },
+  {
     "popular": 4,
     "teamHome": "Náutico",
     "teamVisiting": "São Paulo",
@@ -148,36 +228,6 @@
     "code": "3"
   },
   {
-    "popular": 1,
-    "teamHome": "Atlético Goianiense",
-    "teamVisiting": "Remo",
-    "timestamp": "1747594800000",
-    "info": "Brasil, Série B: Rodada 8",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/21845/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/49202/image",
-    "code": "2"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Corinthians",
-    "teamVisiting": "Santos",
-    "timestamp": "1747594800000",
-    "info": "Brasil, Série A: Rodada 9",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1957/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1968/image",
-    "code": "1"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Juventude",
-    "teamVisiting": "Fluminense",
-    "timestamp": "1747594800000",
-    "info": "Brasil, Série A: Rodada 9",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1980/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1961/image",
-    "code": "3"
-  },
-  {
     "popular": 4,
     "teamHome": "Bahia",
     "teamVisiting": "Vitória",
@@ -186,55 +236,5 @@
     "teamHomeImg": "https://img.sofascore.com/api/v1/team/1955/image",
     "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1962/image",
     "code": "4"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Roma",
-    "teamVisiting": "Milan",
-    "timestamp": "1747593900000",
-    "info": "Itália, Série A: Rodada 37",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2702/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2692/image",
-    "code": "5"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Barcelona",
-    "teamVisiting": "Villarreal ",
-    "timestamp": "1747587600000",
-    "info": "Espanha, LaLiga: Rodada 37",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2817/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2819/image",
-    "code": "2"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Sevilla",
-    "teamVisiting": "Real Madrid",
-    "timestamp": "1747587600000",
-    "info": "Espanha, LaLiga: Rodada 37",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2833/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2829/image",
-    "code": "6"
-  },
-  {
-    "popular": 3,
-    "teamHome": "West Ham United",
-    "teamVisiting": "Nottingham Forest",
-    "timestamp": "1747574100000",
-    "info": "Premier League: Rodada 37",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/37/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/14/image",
-    "code": "2"
-  },
-  {
-    "popular": 3,
-    "teamHome": "Everton",
-    "teamVisiting": "Southampton",
-    "timestamp": "1747566000000",
-    "info": "Premier League: Rodada 37",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/48/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/45/image",
-    "code": "2"
   }
 ]
