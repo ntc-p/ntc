@@ -1,30 +1,5 @@
 [
   {
-    "name": "AMC",
-    "url": "https://embedcanaistv.com/amc/",
-    "img": "httpebp"
-  },
-  {
-    "name": "Animal Planet",
-    "url": "https://superflixapi.dev/tv/animal-planet",
-    "img": "httpebp"
-  },
-  {
-    "name": "AnimeTV",
-    "url": "https://superflixapi.dev/tv/animetv",
-    "img": "httbp"
-  },
-  {
-    "name": "Arte1",
-    "url": "https://superflixapi.dev/tv/arte1",
-    "img": "httpebp"
-  },
-  {
-    "name": "AXN",
-    "url": "https://superflixapi.dev/tv/axn",
-    "img": "httwebp"
-  },
-  {
     "name": "A Fazenda",
     "url": "https://superflixapi.dev/tv/a-fazenda",
     "img": "httpebp"
@@ -36,27 +11,57 @@
   },
   {
     "name": "A&E",
-    "url": "https://superflixapi.dev/tv/ae",
+    "url": "https://embedcanaistv.com/aee/",
     "img": "httpebp"
   },
   {
-    "name": "BBB 24",
-    "url": "https://superflixapi.dev/tv/bbb-24",
+    "name": "Adult Swim",
+    "url": "https://embedcanaistv.com/adultswim/",
+    "img": "httwebp"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "url": "https://embedcanaistv.com/amazonprimevideo/",
+    "img": "httbp"
+  },
+  {
+    "name": "AMC",
+    "url": "https://embedcanaistv.com/amc/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Animal Planet",
+    "url": "https://embedcanaistv.com/animalplanet/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Arte1",
+    "url": "https://embedcanaistv.com/arte1/",
+    "img": "httpebp"
+  },
+  {
+    "name": "AXN",
+    "url": "https://embedcanaistv.com/axn/",
     "img": "httwebp"
   },
   {
     "name": "Band",
-    "url": "https://superflixapi.dev/tv/band",
+    "url": "https://embedcanaistv.com/bandsp/",
     "img": "httpebp"
   },
   {
     "name": "Band News",
-    "url": "https://superflixapi.dev/tv/band-news",
+    "url": "https://embedcanaistv.com/bandnews/",
     "img": "httpebp"
   },
   {
     "name": "Band Sports",
-    "url": "https://superflixapi.dev/tv/band-sports",
+    "url": "https://embedcanaistv.com/bandsports/",
+    "img": "httwebp"
+  },
+  {
+    "name": "BBB 24",
+    "url": "https://superflixapi.dev/tv/bbb-24",
     "img": "httwebp"
   },
   {
@@ -66,7 +71,7 @@
   },
   {
     "name": "Canal Brasil",
-    "url": "https://superflixapi.dev/tv/canal-brasil",
+    "url": "https://embedcanaistv.com/canalbrasil/",
     "img": "httpebp"
   },
   {
@@ -86,37 +91,37 @@
   },
   {
     "name": "Cartoon Network",
-    "url": "https://superflixapi.dev/tv/cartoon-network",
+    "url": "https://embedcanaistv.com/cartoonnetwork/",
     "img": "httpebp"
   },
   {
     "name": "Cartoonito",
-    "url": "https://superflixapi.dev/tv/cartoonito",
+    "url": "https://embedcanaistv.com/cartoonito/",
     "img": "httpebp"
   },
   {
-    "name": "CineCanal",
-    "url": "https://superflixapi.dev/tv/cinecanal",
+    "name": "Cine Canal",
+    "url": "https://embedcanaistv.com/cinecanal/",
     "img": "httpebp"
   },
   {
     "name": "Cinemax",
-    "url": "https://superflixapi.dev/tv/cinemax",
+    "url": "https://embedcanaistv.com/cinemax/",
     "img": "httpebp"
   },
   {
     "name": "CNN Brasil",
-    "url": "https://superflixapi.dev/tv/cnn-brasil",
+    "url": "https://embedcanaistv.com/cnnbrasil/",
     "img": "httpebp"
   },
   {
     "name": "Combate",
-    "url": "https://superflixapi.dev/tv/combate",
+    "url": "https://embedcanaistv.com/combate/",
     "img": "httpebp"
   },
   {
     "name": "Comedy Central",
-    "url": "https://superflixapi.dev/tv/comedy-central",
+    "url": "https://embedcanaistv.com/comedycentral/",
     "img": "httpebp"
   },
   {
@@ -126,73 +131,53 @@
   },
   {
     "name": "Discovery - ID",
-    "url": "https://superflixapi.dev/tv/id-discovery",
+    "url": "https://embedcanaistv.com/discoveryid/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Channel",
-    "url": "https://superflixapi.dev/tv/discovery-channel",
+    "url": "https://embedcanaistv.com/discoverychannel/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Home & Health",
-    "url": "https://superflixapi.dev/tv/discovery-home-health",
+    "url": "https://embedcanaistv.com/discoveryhh/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Kids",
-    "url": "https://superflixapi.dev/tv/discovery-kids",
+    "url": "https://embedcanaistv.com/discoverykids/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Science",
-    "url": "https://superflixapi.dev/tv/discovery-science",
+    "url": "https://embedcanaistv.com/discoveryscience/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Theater",
-    "url": "https://superflixapi.dev/tv/discovery-theater",
+    "url": "https://embedcanaistv.com/discoverytheater/",
     "img": "httpebp"
   },
   {
     "name": "Discovery Turbo",
-    "url": "https://superflixapi.dev/tv/discovery-turbo",
+    "url": "https://embedcanaistv.com/discoveryturbo/",
     "img": "httpebp"
   },
   {
     "name": "Discovery World",
-    "url": "https://superflixapi.dev/tv/discovery-world",
+    "url": "https://embedcanaistv.com/discoveryworld/",
     "img": "httpebp"
   },
   {
     "name": "Disney Channel",
-    "url": "https://superflixapi.dev/tv/disney-channel",
+    "url": "https://embedcanaistv.com/disneychannel/",
     "img": "httpebp"
   },
   {
-    "name": "ESPN",
-    "url": "https://superflixapi.dev/tv/espn",
+    "name": "Disney Plus",
+    "url": "https://embedcanaistv.com/disneyplus/",
     "img": "httpebp"
-  },
-  {
-    "name": "ESPN EXTRA",
-    "url": "https://superflixapi.dev/tv/espn-extra",
-    "img": "httwebp"
-  },
-  {
-    "name": "ESPN 2",
-    "url": "https://superflixapi.dev/tv/espn-2",
-    "img": "https://github.com/e-shorts/e/blob/main/tv/icons/espn_2.png?raw=true"
-  },
-  {
-    "name": "ESPN 3",
-    "url": "https://superflixapi.dev/tv/espn-3",
-    "img": "httwebp"
-  },
-  {
-    "name": "ESPN 4",
-    "url": "https://superflixapi.dev/tv/espn-4",
-    "img": "httbp"
   },
   {
     "name": "E! Entertainment Television",
@@ -200,8 +185,38 @@
     "img": "httpebp"
   },
   {
+    "name": "ESPN",
+    "url": "https://embedcanaistv.com/espn/",
+    "img": "httpebp"
+  },
+  {
+    "name": "ESPN 2",
+    "url": "https://embedcanaistv.com/espn2/",
+    "img": "https://github.com/e-shorts/e/blob/main/tv/icons/espn_2.png?raw=true"
+  },
+  {
+    "name": "ESPN 3",
+    "url": "https://embedcanaistv.com/espn3/",
+    "img": "httwebp"
+  },
+  {
+    "name": "ESPN 4",
+    "url": "https://embedcanaistv.com/espn4/",
+    "img": "httbp"
+  },
+  {
+    "name": "ESPN 5",
+    "url": "https://embedcanaistv.com/espn5/",
+    "img": "httbp"
+  },
+  {
+    "name": "ESPN 6",
+    "url": "https://embedcanaistv.com/espn6/",
+    "img": "httbp"
+  },
+  {
     "name": "Food Network",
-    "url": "https://superflixapi.dev/tv/food-network",
+    "url": "https://embedcanaistv.com/foodnetwork/",
     "img": "httpebp"
   },
   {
@@ -215,88 +230,53 @@
     "img": "httpebp"
   },
   {
-    "name": "GNT",
-    "url": "https://superflixapi.dev/tv/gnt",
-    "img": "httpebp"
-  },
-  {
-    "name": "Gloob",
-    "url": "https://superflixapi.dev/tv/gloob",
-    "img": "httpebp"
-      },
-  {
-    "name": "Gloobinho",
-    "url": "https://superflixapi.dev/tv/gloobinho",
+    "name": "Globo BA",
+    "url": "https://embedcanaistv.com/globoba/",
     "img": "httpebp"
   },
   {
     "name": "Globo MG",
-    "url": "https://superflixapi.dev/tv/globo-mg",
+    "url": "https://embedcanaistv.com/globomg/",
     "img": "httpebp"
   },
   {
     "name": "Globo News",
-    "url": "https://superflixapi.dev/tv/globo-news",
+    "url": "https://embedcanaistv.com/globonews/",
     "img": "httpebp"
   },
   {
     "name": "Globo RJ",
-    "url": "https://superflixapi.dev/tv/globo-rj",
+    "url": "https://embedcanaistv.com/globorj/",
     "img": "httpebp"
-      },
+  },
+  {
+    "name": "Globo RS",
+    "url": "https://embedcanaistv.com/globors/",
+    "img": "httpebp"
+  },
   {
     "name": "Globo SP",
-    "url": "https://superflixapi.dev/tv/globo-sp",
+    "url": "https://embedcanaistv.com/globosp/",
     "img": "httpebp"
   },
   {
-    "name": "HBO",
-    "url": "https://superflixapi.dev/tv/hbo",
+    "name": "Gloob",
+    "url": "https://embedcanaistv.com/gloob/",
     "img": "httpebp"
   },
   {
-    "name": "HBO 2",
-    "url": "https://superflixapi.dev/tv/hbo-2",
+    "name": "Gloobinho",
+    "url": "https://embedcanaistv.com/gloobinho/",
     "img": "httpebp"
   },
   {
-    "name": "HBO Family",
-    "url": "https://superflixapi.dev/tv/hbo-family",
+    "name": "Gloobo DF",
+    "url": "https://embedcanaistv.com/globodf/",
     "img": "httpebp"
   },
   {
-    "name": "HBO Mundi",
-    "url": "https://superflixapi.dev/tv/hbo-mundi",
-    "img": "httpebp"
-  },
-  {
-    "name": "HBO Plus",
-    "url": "https://superflixapi.dev/tv/hbo-plus",
-    "img": "httpebp"
-  },
-  {
-    "name": "HBO Pop",
-    "url": "https://superflixapi.dev/tv/hbo-pop",
-    "img": "httpebp"
-  },
-  {
-    "name": "HBO Signature",
-    "url": "https://superflixapi.dev/tv/hbo-signature",
-    "img": "httpebp"
-  },
-  {
-    "name": "HBO Xtreme",
-    "url": "https://superflixapi.dev/tv/hbo-xtreme",
-    "img": "httpebp"
-  },
-  {
-    "name": "History Channel",
-    "url": "https://superflixapi.dev/tv/history-channel",
-    "img": "httpebp"
-  },
-  {
-    "name": "HGTV",
-    "url": "https://superflixapi.dev/tv/hgtv",
+    "name": "GNT",
+    "url": "https://embedcanaistv.com/gnt/",
     "img": "httpebp"
   },
   {
@@ -305,13 +285,83 @@
     "img": "httpebp"
   },
   {
+    "name": "HBO",
+    "url": "https://embedcanaistv.com/hbo/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO 2",
+    "url": "https://embedcanaistv.com/hbo2/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Family",
+    "url": "https://embedcanaistv.com/hbofamily/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Mundi",
+    "url": "https://embedcanaistv.com/hbomundi/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Plus",
+    "url": "https://embedcanaistv.com/hboplus/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Pop",
+    "url": "https://embedcanaistv.com/hbopop/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Signature",
+    "url": "https://embedcanaistv.com/hbosignature/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Xtreme",
+    "url": "https://embedcanaistv.com/hboxtreme/",
+    "img": "httpebp"
+  },
+  {
+    "name": "HGTV",
+    "url": "https://embedcanaistv.com/hgtv/",
+    "img": "httpebp"
+  },
+  {
+    "name": "History Channel",
+    "url": "https://embedcanaistv.com/history/",
+    "img": "httpebp"
+  },
+  {
     "name": "Lifetime",
-    "url": "https://superflixapi.dev/tv/lifetime",
+    "url": "https://embedcanaistv.com/lifetime/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Max",
+    "url": "https://embedcanaistv.com/max/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Max 2",
+    "url": "https://embedcanaistv.com/max2/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Max 3",
+    "url": "https://embedcanaistv.com/max3/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Max 4",
+    "url": "https://embedcanaistv.com/max4/",
     "img": "httpebp"
   },
   {
     "name": "Megapix",
-    "url": "https://superflixapi.dev/tv/megapix",
+    "url": "https://embedcanaistv.com/megapix/",
     "img": "httpebp"
   },
   {
@@ -321,7 +371,7 @@
   },
   {
     "name": "MTV",
-    "url": "https://superflixapi.dev/tv/mtv",
+    "url": "https://embedcanaistv.com/mtv/",
     "img": "httpebp"
   },
   {
@@ -331,12 +381,12 @@
   },
   {
     "name": "Multishow",
-    "url": "https://superflixapi.dev/tv/multishow",
+    "url": "https://embedcanaistv.com/multishow/",
     "img": "httpebp"
   },
   {
     "name": "National Geographic Channel",
-    "url": "https://superflixapi.dev/tv/national-geographic-channel",
+    "url": "https://embedcanaistv.com/nationalgeografic/",
     "img": "httpebp"
   },
   {
@@ -346,17 +396,22 @@
   },
   {
     "name": "Nick Jr.",
-    "url": "https://superflixapi.dev/tv/nick-jr",
+    "url": "https://embedcanaistv.com/nickjr/",
     "img": "httpebp"
   },
   {
     "name": "Nickelodeon",
-    "url": "https://superflixapi.dev/tv/nickelodeon",
+    "url": "https://embedcanaistv.com/nickelodeon/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Nosso Futebol",
+    "url": "https://embedcanaistv.com/nossofutebol/",
     "img": "httpebp"
   },
   {
     "name": "Paramount Channel",
-    "url": "https://superflixapi.dev/tv/paramount-channel",
+    "url": "https://embedcanaistv.com/paramountplus/",
     "img": "httpebp"
   },
   {
@@ -380,138 +435,128 @@
     "img": "httpebp"
   },
   {
-    "name": "Premiere Clubes",
-    "url": "https://superflixapi.dev/tv/premiere-clubes",
-    "img": "httpebp"
-  },
-  {
     "name": "Premiere 2",
-    "url": "https://superflixapi.dev/tv/premiere-2",
+    "url": "https://embedcanaistv.com/premiere2/",
     "img": "httpebp"
   },
   {
     "name": "Premiere 3",
-    "url": "https://superflixapi.dev/tv/premiere-3",
+    "url": "https://embedcanaistv.com/premiere3/",
     "img": "httpebp"
   },
   {
     "name": "Premiere 4",
-    "url": "https://superflixapi.dev/tv/premiere-4",
+    "url": "https://embedcanaistv.com/premiere4/",
     "img": "httbp"
   },
   {
     "name": "Premiere 5",
-    "url": "https://superflixapi.dev/tv/premiere-5",
+    "url": "https://embedcanaistv.com/premiere5/",
     "img": "httwebp"
   },
   {
     "name": "Premiere 6",
-    "url": "https://superflixapi.dev/tv/premiere-6",
+    "url": "https://embedcanaistv.com/premiere6/",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "Premiere 7",
-    "url": "https://superflixapi.dev/tv/premiere-7",
+    "url": "https://embedcanaistv.com/premiere7/",
     "img": "httbp"
   },
   {
     "name": "Premiere 8",
-    "url": "https://superflixapi.dev/tv/premiere-8",
+    "url": "https://embedcanaistv.com/premiere8/",
     "img": "httwebp"
+  },
+  {
+    "name": "Premiere Clubes",
+    "url": "https://embedcanaistv.com/premiereclubes/",
+    "img": "httpebp"
   },
   {
     "name": "Prime Video 1",
     "url": "https://superflixapi.dev/tv/prime-video-1",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "Prime Video 2",
     "url": "https://superflixapi.dev/tv/prime-video-2",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "Prime Video 3",
     "url": "https://superflixapi.dev/tv/prime-video-3",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "Prime Video 4",
     "url": "https://superflixapi.dev/tv/prime-video-4",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "Record News",
-    "url": "https://superflixapi.dev/tv/record-news",
+    "url": "https://embedcanaistv.com/recordnews/",
     "img": "httpebp"
-  }, 
+  },
   {
-    "name": "Record TV",
-    "url": "https://superflixapi.dev/tv/record-tv",
+    "name": "Record RJ",
+    "url": "https://embedcanaistv.com/recordrj/",
     "img": "httpebp"
-  }, 
+  },
   {
-    "name": "RedeTV",
-    "url": "https://superflixapi.dev/tv/redetv",
+    "name": "Record SP",
+    "url": "https://embedcanaistv.com/recordsp/",
     "img": "httpebp"
-  }, 
+  },
+  {
+    "name": "Rede TV",
+    "url": "https://embedcanaistv.com/redetv/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Rede Vida",
+    "url": "https://embedcanaistv.com/redevida/",
+    "img": "httpebp"
+  },
   {
     "name": "SBT",
     "url": "https://embedcanaistv.com/sbtsp/",
     "img": "httpebp"
   },
   {
+    "name": "Sony Channel",
+    "url": "https://embedcanaistv.com/sonychannel/",
+    "img": "https"
+  },
+  {
     "name": "Space",
-    "url": "https://superflixapi.dev/tv/space",
+    "url": "https://embedcanaistv.com/space/",
     "img": "https"
   },
   {
     "name": "SporTV",
-    "url": "https://superflixapi.dev/tv/sportv",
+    "url": "https://embedcanaistv.com/sportv/",
     "img": "http"
   },
   {
     "name": "SporTV 2",
-    "url": "https://superflixapi.dev/tv/sportv-2",
+    "url": "https://embedcanaistv.com/sportv2/",
     "img": "https"
   },
   {
     "name": "SporTV 3",
-    "url": "https://superflixapi.dev/tv/sportv-3",
+    "url": "https://embedcanaistv.com/sportv3/",
     "img": "https"
   },
   {
     "name": "Star Channel",
-    "url": "https://superflixapi.dev/tv/star-channel",
+    "url": "https://embedcanaistv.com/starchannel/",
     "img": "https"
-  },
-  {
-    "name": "Star+ 1",
-    "url": "https://superflixapi.dev/tv/star-1",
-    "img": "https"
-  },
-  {
-    "name": "Star+ 2",
-    "url": "https://superflixapi.dev/tv/star-2",
-    "img": "https"
-  },
-  {
-    "name": "Star+ 3",
-    "url": "https://superflixapi.dev/tv/star-3",
-    "img": "httpebp"
-  },
-  {
-    "name": "Star+ 4",
-    "url": "https://superflixapi.dev/tv/star-4",
-    "img": "https"
-  },
-  {
-    "name": "Starplus Eventos",
-    "url": "https://superflixapi.dev/tv/starplus-eventos",
-    "img": "httpebp"
   },
   {
     "name": "Studio Universal",
-    "url": "https://superflixapi.dev/tv/studio-universal",
+    "url": "https://embedcanaistv.com/studiouniversal/",
     "img": "httwebp"
   },
   {
@@ -526,82 +571,107 @@
   },
   {
     "name": "Telecine Action",
-    "url": "https://superflixapi.dev/tv/telecine-action",
+    "url": "https://embedcanaistv.com/tcaction/",
     "img": "httpebp"
   },
   {
     "name": "Telecine Cult",
-    "url": "https://superflixapi.dev/tv/telecine-cult",
+    "url": "https://embedcanaistv.com/tccult/",
     "img": "httpebp"
   },
   {
     "name": "Telecine Fun",
-    "url": "https://superflixapi.dev/tv/telecine-fun",
+    "url": "https://embedcanaistv.com/tcfun/",
     "img": "httpebp"
   },
   {
     "name": "Telecine Pipoca",
-    "url": "https://superflixapi.dev/tv/telecine-pipoca",
+    "url": "https://embedcanaistv.com/tcpipoca/",
     "img": "httpebp"
   },
   {
     "name": "Telecine Premium",
-    "url": "https://superflixapi.dev/tv/telecine-premium",
+    "url": "https://embedcanaistv.com/tcpremium/",
     "img": "httpebp"
   },
   {
     "name": "Telecine Touch",
-    "url": "https://superflixapi.dev/tv/telecine-touch",
+    "url": "https://embedcanaistv.com/tctouch/",
     "img": "httpebp"
   },
   {
     "name": "TLC",
-    "url": "https://superflixapi.dev/tv/tlc",
+    "url": "https://embedcanaistv.com/tlc/",
     "img": "httpebp"
-  }, 
+  },
   {
     "name": "TNT",
-    "url": "https://superflixapi.dev/tv/tnt",
+    "url": "https://embedcanaistv.com/tnt/",
     "img": "https"
   },
   {
     "name": "TNT Novelas",
-    "url": "https://superflixapi.dev/tv/tnt-novelas",
+    "url": "https://embedcanaistv.com/tntnovelas/",
     "img": "https"
   },
   {
     "name": "TNT Series",
-    "url": "https://superflixapi.dev/tv/tnt-series",
+    "url": "https://embedcanaistv.com/tntseries/",
     "img": "httwebp"
+  },
+  {
+    "name": "TNT Sports",
+    "url": "https://embedcanaistv.com/tntsports/",
+    "img": "https"
+  },
+  {
+    "name": "TNT Sports 2",
+    "url": "https://embedcanaistv.com/tntsports2/",
+    "img": "https"
+  },
+  {
+    "name": "TNT Sports 3",
+    "url": "https://embedcanaistv.com/tntsports3/",
+    "img": "https"
   },
   {
     "name": "TruTV",
     "url": "https://superflixapi.dev/tv/trutv",
     "img": "httpebp"
-  }, 
+  },
+  {
+    "name": "TV Cultura",
+    "url": "https://embedcanaistv.com/tvcultura/",
+    "img": "httpebp"
+  },
   {
     "name": "TV Rá-Tim-Bum",
-    "url": "https://superflixapi.dev/tv/tv-ra-tim-bum",
+    "url": "https://embedcanaistv.com/tvratimbum/",
     "img": "httpebp"
   },
   {
     "name": "UFC Fight Pass",
-    "url": "https://superflixapi.dev/tv/ufc-fight-pass",
+    "url": "https://embedcanaistv.com/ufcfightpass/",
+    "img": "httpebp"
+  },
+  {
+    "name": "Universal Tv",
+    "url": "https://embedcanaistv.com/universaltv/",
     "img": "httpebp"
   },
   {
     "name": "Viva",
-    "url": "https://superflixapi.dev/tv/viva",
+    "url": "https://embedcanaistv.com/viva/",
     "img": "httpebp"
   },
   {
     "name": "Warner TV",
-    "url": "https://superflixapi.dev/tv/warner-tv",
+    "url": "https://embedcanaistv.com/warner/",
     "img": "httpebp"
   },
   {
-    "name": "Woohoo",
-    "url": "https://superflixapi.dev/tv/woohoo",
+    "name": "ZooMoo Kids",
+    "url": "https://embedcanaistv.com/zoomookids/",
     "img": "httpebp"
   }
 ]
