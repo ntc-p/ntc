@@ -3,6 +3,7 @@
     "serverStart": "https://sportzonline.si/channels/bra/br",
     "serverEnd": ".php",
     "notice": "NetCine Plus - build-252\n\n*Melhorias e correções.",
+    "futMax": "https://futemax.loan/", 
     "version": 252,
     "minimumVersion": 252,
     "linkVersion": "https://www.mediafire.com/file/qabbqdqbkdovz0v/NetCine_Plus_252.apk/file"
