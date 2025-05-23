@@ -9,6 +9,76 @@
   },
   {
     "popular": 3,
+    "teamHome": "Atlético Mineiro",
+    "teamVisiting": "Corinthians",
+    "timestamp": "1748131200000",
+    "info": "Brasil, Série A: Rodada 10",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1977/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1957/image",
+    "code": "1"
+  },
+  {
+    "popular": 3,
+    "teamHome": "São Paulo",
+    "teamVisiting": "Mirassol",
+    "timestamp": "1748122200000",
+    "info": "Brasil, Série A: Rodada 10",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1981/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/21982/image",
+    "code": "1"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Fluminense",
+    "teamVisiting": "Vasco da Gama",
+    "timestamp": "1748122200000",
+    "info": "Brasil, Série A: Rodada 10",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1961/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1974/image",
+    "code": "5"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Milan",
+    "teamVisiting": "Monza",
+    "timestamp": "1748112300000",
+    "info": "Itália: Serie A, Rodada 38",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2692/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2729/image",
+    "code": "4"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Goiás",
+    "teamVisiting": "Ferroviária",
+    "timestamp": "1748046900000",
+    "info": "Brasil, Série B: Rodada 9",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1982/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1973/image",
+    "code": "2"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Como",
+    "teamVisiting": "Internazionale",
+    "timestamp": "1748025900000",
+    "info": "Itália, Serie A: Rodada 38",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2704/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2697/image",
+    "code": "4"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Napoli",
+    "teamVisiting": "Cagliari",
+    "timestamp": "1748025900000",
+    "info": "Itália, Serie A: Rodada 38",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2714/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2719/image",
+    "code": "2"
+  },
+  {
+    "popular": 3,
     "teamHome": "RB Bragantino",
     "teamVisiting": "Criciúma",
     "timestamp": "1747960200000",
@@ -159,82 +229,12 @@
   },
   {
     "popular": 4,
-    "teamHome": "Náutico",
-    "teamVisiting": "São Paulo",
-    "timestamp": "1747787400000",
-    "info": "Brasil, Copa do Brasil: Rodada 3",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2011/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1981/image",
-    "code": "1"
-  },
-  {
-    "popular": 4,
     "teamHome": "Grêmio",
     "teamVisiting": "CSA",
     "timestamp": "1747787400000",
     "info": "Brasil, Série A: Rodada 9",
     "teamHomeImg": "https://img.sofascore.com/api/v1/team/5926/image",
     "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2010/image",
-    "code": "4"
-  },
-  {
-    "popular": 0,
-    "teamHome": "River Plate",
-    "teamVisiting": "Platense",
-    "timestamp": "1747783800000",
-    "info": "Argentina, Liga Profesional: Quartas",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/3211/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/36837/image",
-    "code": "2"
-  },
-  {
-    "popular": 4,
-    "teamHome": "Vasco da Gama",
-    "teamVisiting": "Operário PR",
-    "timestamp": "1747778400000",
-    "info": "Brasil, Copa do Brasil: Rodada 3",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1974/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/39634/image",
-    "code": "1"
-  },
-  {
-    "popular": 1,
-    "teamHome": "Cruzeiro U20",
-    "teamVisiting": "Corinthians U20",
-    "timestamp": "1747764000000",
-    "info": "Brasil, U20: Rodada 11",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/200655/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/72016/image",
-    "code": "1"
-  },
-  {
-    "popular": 1,
-    "teamHome": "Coritiba",
-    "teamVisiting": "América Mineiro",
-    "timestamp": "1747701300000",
-    "info": "Brasil, Série B: Rodada 8",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1982/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1973/image",
-    "code": "6"
-  },
-  {
-    "popular": 1,
-    "teamHome": "Boca Juniors",
-    "teamVisiting": "Independiente",
-    "timestamp": "1747701000000",
-    "info": "Argentina, Liga Profesional: Quartas",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/3202/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3209/image",
-    "code": "5"
-  },
-  {
-    "popular": 1,
-    "teamHome": "Volta Redonda",
-    "teamVisiting": "Amazonas",
-    "timestamp": "1747692000000",
-    "info": "Brasil, Série B: Rodada 8",
-    "teamHomeImg": "https://img.sofascore.com/api/v1/team/6982/image",
-    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/336664/image",
     "code": "4"
   }
 ]
