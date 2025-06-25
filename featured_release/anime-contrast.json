@@ -7,8 +7,8 @@
   "description": "NOVO LANÇAMENTO",
   "video": "531598",
   "status": true,
-  "notice": "NetCine Plus - build-254\n\n* Atualização exclusiva para animes.\n* Correções na página, número de episódios.\n* Correções no vídeo travando.\n* COM anúncios.\n* Outras correções de bugs e melhorias.",
-  "version": 254,
+  "notice": "NetCine Plus - build-254\n\n* Atualização exclusiva para animes.\n* Correções para videos não encontrados.\n* Correções em imagens não aparecendo na pesquisa.\n* COM anúncios.\n* Outras correções de bugs e melhorias.",
+  "version": 256,
   "minimumVersion": 251,
-  "linkVersion": "https://www.mediafire.com/file/fk6nn1lza1p3854/NetCine_Plus_254.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/c2u0kfhxmpwbme2/NetCine_Plus_256.apk/file"
 }
