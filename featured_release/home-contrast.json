@@ -4,7 +4,7 @@
   "embedded": "https://embedder.net",
   "warezcdn": "https://embed.warezcdn.link",
   "superFlixApi": "https://superflixapi.shop",
-  "notice": "NetCine Plus - build-255\n\n*Categorias corrigidas e novo filtro por ano de lançamento disponível.\n*Novo servidor 360p e 720p.\n*Melhorias em downloads e notificação.\n*COM anúncios.\n*Outras correções de bugs e melhorias",
+  "notice": "NetCine Plus - build-257\n\n*correção no servidor 3.\n*COM anúncios.\n*Outras correções de bugs e melhorias",
   "name": "The Last of Us",
   "link": "/serie/online/the-last-of-us",
   "wallpaper": "/content/series/background/1280/22180.webp",
@@ -13,7 +13,7 @@
   "season": 0,
   "episode": 0,
   "isMovie": false,
-  "version": 255,
+  "version": 257,
   "minimumVersion": 251,
-  "linkVersion": "https://www.mediafire.com/file/c5w5chaf4sfre6n/NetCine_Plus_255.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/94g6l3m49512ks5/NetCine_Plus_257.apk/file"
 }
